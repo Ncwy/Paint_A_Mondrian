@@ -97,6 +97,7 @@ h1 {
 .firstRow, .secondRow, .thirdRow, .fourthRow{
     display: flex;
     flex-direction: row;
+    cursor: pointer;
 }
 
 .firstRow, .secondRow, .thirdRow {
